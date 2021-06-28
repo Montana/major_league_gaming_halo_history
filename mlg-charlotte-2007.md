@@ -1,191 +1,191 @@
-| Team                      | Player 1        | Player 2        | Player 3        | Player 4          |
-|---------------------------|-----------------|-----------------|-----------------|-------------------|
-| 11th Hour                 | X DuNN X        | crashmonster12  | derkderp        | xAfLiCtIoNx       |
-| 1stroundknockout          | GoldLancer      | Kiss4u          | BeatFreak22     | K0FFIE            |
-| 3 Dudes and A GoaT        | N1gh7cr4wl3r    | xX GoaT         | x_ViaGra        | x2_PoX            |
-| 30 points to Gryffindor   | cApz_iZ_SiK     | sekrit          | xEnigmaah       | EVO_TrojaN        |
-| 45 Aces                   | AceRiverRat     | 45AceGhostly    | 45AceBallistiK  | AceWinchester     |
-| 5k                        | FearItSelf      | Lunchbox        | Roy             | HokuM             |
-| Above The Rest            | ChuckWolfman    | I XavieR I      | tsolja          | StretchesBackPack |
-| Adventure Sports Impulse  | TranslatioN     | HypNubTiz3      | Flooby69        | TheAdolfzilla     |
-| afterDomination           | Blackfade       | Legolas71088    | WamomaW         | IcedBlueII        |
-| Aftermath                 | Shao            | Tarian          | Dark_Ghost      | wosna             |
-| Against All Odds          | XZIL3D19        | XzPLoDe         | CHILLconstantly | konfusionsays     |
-| AGS                       | paldinb         | edinb           | TH3 JAN1T0R     | harrybarry        |
-| AGU Revolution            | xAdamx          | PhantomNeo25    | DeldR4L         | xChildsizejacobx  |
-| All Eyes On               | .FoH.           | xK3n            | iProxity        | _-Risen-_         |
-| Audio Murder              | pms jennamurder | rockNturtle     | imindiankthanx  | ViraLLL           |
-| Bang Bros                 | Or1g1nal_Sin    | b rYce pwnZor   | xMoNZeY         | MrChEFiE          |
-| Believe The Hype          | -Cloud-         | Hysteria        | FrozeInShocK    | B RizZzLe         |
-| Blue Barracudas           | ViruSsSsS       | Serenityyyy     | _____PREDATOR   | xPuppet           |
-| Broken Karma              | Grippo          | Cheese_Crackers | available       | powny             |
-| Brutal Suppression        | P2W I iCeMaN    | Gavin Iz Wack   | Lx_Warrior_xL   | letterz           |
-| C.E.O.                    | -SpinneR-       | xDooMzDaY       | CaRNaGe         | -DeAtH-           |
-| Cant Touch This           | CKSinister      | Rekshop         | Nurdy           | gh0stG            |
-| Carbon                    | ShocKWav3       | Gandhi          | GH057ayame      | Karma             |
-| Case Closed               | The Real ReCKd  | KIA DIRTYDOG    | Mad BeAst 17    | OmGs              |
-| Catch The Glow            | Stray Shot      | FE Thebox       | TWolf is Novice | iSeven            |
-| Chasing Victory           | iLondon         | Furby           | xWatch          | GatliNisTINY      |
-| Check Your Radar          | Its KaoS        | ItWazEazy       | IAmKorrupt      | Gatmannnnnn       |
-| Chosen Trousers           | pants1          | pants2          | pantsX          | leatherchaps      |
-| CLK                       | SHOCKA          | Be LiKe MyTh    | HeLLuVa         | (Its DizZy)       |
-| Cold Fusion LC            | FisSsurE        | Pyschodork      | whoopz          | ZzZenta           |
-| coming at you hot         | omnipotent      | xEnVx           | eriley2789      | BM Ju1c3          |
-| Concentratin on Ignorance | bRm_fAnCyPaNtS  | J33BUZ          | lHeNneSsYl      | BlackList         |
-| Confusion                 | ironman2k2      | Perplexity      | I Chody I       | crafty_kisses     |
-| Contagious                | BoOmToYoU4 SHOT | Strotnium       | )DuCKy(         | Sparkz is Here    |
-| Crush Face                | iObsidian       | willah          | GI Coled        | KroVean           |
-| David Blainers            | Otherhalf       | LiLY            | RiDDle          | Honora            |
-| dFine =)                  | DsG Trippin     | bASHER          | CT Magus        | xSin              |
-| DiFiNitY                  | Wildwhiskers    | ExiLe           | TacTiKz         | fbicsmoog         |
-| DisneyLan                 | NiNjA LucK      | Whotippedmycow  | th3_triggaman   | PotioNNN          |
-| Don’t Worry About It      | AngelofRegret   | x0brendax0      | IKoN            | monkeypaw         |
-| Dumbledore’s Army         | LastMan         | IlliniFan22     | lilscarface09   | SilverSon         |
-| Elegant Violence          | AzulstaR        | FoKuZ           | ff unleashed    | WILLLLL           |
-| End Result                | Madmax_eh       | DARKscorpion    | HearNe          | Il inFeKzioN Il   |
-| Escape The Fate           | Mr Heart        | AhFiNiTY        | Walked          | iP1ayFOrKe3ps     |
-| eX eM oUt                 | MaG1K           | _Scarfac3_      | OveRKiLL_X      | overdrive_x       |
-| Eye of the Storm          | RaVaGe          | FatalMatt       | restored        | ICarnageI         |
-| Famous                    | bryanman99      | daa_skins       | Dope_Boi_Magik  | _____Carnage      |
-| Fatal Shot                | TFG Acid        | Rush            | l Rag3 l        | xX Rawr           |
-| FBI Active Rush           | IceVayne        | DyNoMiKe        | Gexny           | LanceR INAl       |
-| FBI ICON                  | Slim            | TimeliestBrute  | Havok           | Mimic             |
-| FBI MICHIGAN              | Syz3rgy         | SmOoTh iZ SicK  | L 50Rap3s L     | BoneZZZZZZZZZZZ   |
-| FBI No Worries            | xDiStReSs       | HyPnOtIc22      | lPrecizion      | xPowNaMaTaTa      |
-| FBI Power Ranger          | xReject         | Xavier J        | icbti Napolean  | xXRoOo            |
-| FBI The Agency            | Victory X       | Mackeo          | Naded           | Halogod           |
-| FBI The Project           | youknowozzy     | PowerTripp3n    | xxTUSSxx        | The RiSK          |
-| Fear Factor               | HeWy            | WillysWonka     | Disco Stu iMH   | _ErmAc            |
-| Fierce                    | KoTaMayNe       | Gx3SoLaRv2      | IP3rFecTioN     | CaMpBeLl_2        |
-| Fight Club                | ITPI MmAz1nG    | Knowledge       | Rio             | EsssP             |
-| Final Boss                | Walshy          | OGRE1           | OGRE2           | StrongSide        |
-| Finessed                  | I Bushido I     | Lies            | lx Ace xl       | D3monHuntei2      |
-| Finishing Touch           | DynastyBlaze    | hydrom          | xSandmanx89     | Xx Spark xX       |
-| Fire At Will              | RainmanMP       | FT Squirrelboy  | CrazyLoco       | Calculus          |
-| Flopped The Nuts          | MikeMan         | Nefarious Dan   | The_Daypeople   | klocraft          |
-| Free Beer                 | .SheriFF.       | i ReFleX        | TheGoodLefty    | Calcium           |
-| Frequency                 | LVs_Justice     | Cooter The Cat  | guitarhero6889  | APoorMan82        |
-| FuSioN                    | _kevy           | Mzuka.          | TrueYoda        | SteelRepress      |
-| GainTheLead               | I MaFiA l       | xSleepy         | Bovine          | _Faded_           |
-| GDT                       | Bonafide        | CH0B0           | ThuggishKlLLA   | MuteRcLe          |
-| Genuwin                   | Xena            | Smiley          | xSn4kE          | DrumMeR           |
-| Get Scrims Now            | Latrine Marine. | big8hurt        | FrulVlpy        | RemarK            |
-| Get The Pwn               | -Heirarch-      | DukeOfCheese    | kyo             | (Aptix)           |
-| Gotta Love The Sun        | SsSilent        | Snuff Said      | MaNiiaC         | iFielder          |
-| Gruntbusters              | Adoggman        | Dietzanator     | R3medy          | TheRavager        |
-| Guilty by Association     | ExInceNDiA      | Emoio           | NeKsT           | .Tr1cK            |
-| h2k                       | hslightking     | DaRk VeGeTTo    | MeLLoZ          | lGaMeI            |
-| Hardcore xXx Christian    | WaR1oR          | FreaK_0ut       | PhenoM_DeStRoYz | siingle shott     |
-| Hated On Mostly           | ZeroWolf        | conman234       | TwYLighT is XL  | Smelly            |
-| HawT FyA                  | BadBradizhuge   | krazygoose      | jpglass717      | YOgrannyFOOOOOO   |
-| Hi Definition             | ShaD_oH         | AustiNNNNNN     | NadeFingerz     | xSilenCe          |
-| Home Lan Security         | KillinzEZ       | Your Connection | BonnieW         | Ur_Own_Gun        |
-| Honor Bound               | MosheR          | UpGrAdE         | KenergY         | LANdicap          |
-| I ain got No MuLAAAAA     | xSp4cExP3nGuiNx | BlackHitman     | a Pure Gangster | Prawbill          |
-| I I Wh4t5 5k11L I I       | e1em3nt         | krosmo          | IronIKILLU      | AIR_RUN           |
-| IF Your Not 1st Your Last | xGatz           | Gomer1989       | qp VALO qp      | Starchy           |
-| ImpLicitY                 | kLoaKz          | x FuZzioN x     | Krazzzed_07     | xIProVoKeIx       |
-| Indecent eXposure         | OGRE3           | MioFF           | Scrub           | Hosh              |
-| J3R                       | RaNKly          | Lazy_Wildcat    | sticky_mc       | Distraxtion       |
-| joystik                   | snipergross     | Maha            | FaTaL_1         | dp-legacy         |
-| Just Call Me DaySha       | Bad ST nick0las | xxRaynexx       | AnM Shame       | Das Trogdor       |
-| KAHT Pro                  | GreatOne-       | pure lermane    | Fumas           | Jayrock-          |
-| KroniC                    | .RaZor.         | SAVAGE-P        | G-SUS-JUICE     | ChAiNeD_N         |
-| KSI Pro                   | _Incinerator    | Militant Minds  | cutla07         | chasecutla        |
-| Lammie Fans!              | Blocker         | FierceElite     | WoRRaLL         | iStars            |
-| LeGendZ                   | Defy            | Vash            | Cpt Anarchy     | Dysphoria         |
-| Lessthan3                 | Knight2         | lBoBl           | xcarrawayx      | v1rgin            |
-| Lethal Placebo            | WatchUrTopKnot  | l Ryn0 l        | Al2IES 1        | rascaLaTOR        |
-| LG Dynasty                | GuN_ShoT        | Loondog         | ApoK            | Shoota II         |
-| LineSight                 | lllSLYFOXlll    | k RAZY BR       | Excluzion       | Evasiv3           |
-| Liquid Confidence         | Klank98         | Fozma           | Scarab55        | GargantuanAlien   |
-| LOA Wu Tang Financial     | FirelsHot       | I Got Cats      | WhoS RussiaN    | StRyKeR           |
-| LoSeRs LuCk               | crazyll         | Overdrive2121   | I_aM_ReVaMp     | InTeNsELL         |
-| LPz Squad                 | LiL-Poison      | LiL-YoDa        | TheyCallMeWish  | BP-Ozzie          |
-| Makin Friends             | Ubility         | HalkA           | Proph           | FirstPlace        |
-| Matchmakin Crew           | ThRoWd          | SoulRebelz      | YoungGun2110    | Beastmode         |
-| Modern Times              | Lelu            | TheHansBecker   | Intangibles     | Hosty             |
-| Moonraker                 | FROSTBIT3       | Old_Skool       | MG_Depression   | _Damage           |
-| Morbid Wants Walshy       | Final Hunter    | xXBluE          | DareDevil 7     | ThaAntidote       |
-| Most Shots Fired          | L u c k i e     | Sooo-FkN-Nasty  | iHighFivei      | Bear-Grylls       |
-| Natural Talent            | Beginners Luck  | TiZoXiC         | Frooooosty_Jr   | Blue_Wolf         |
-| Naturally Neat            | TeAm_BuRnS      | Stunner         | JiZoKer         | InSaiyan          |
-| Needs a Place to Stay     | Ms Baretta      | PS-BiggY        | ll XeoN ll      | xSmallYx          |
-| Next Level                | asjacobs248     | nonobunny       | one_f8_4_all    | L2P               |
-| Nice Like Rice            | LegendJRG       | Ray             | Foulacy         | Pyrocy            |
-| Noobie kids Noobing Kids  | SaiNt_Won       | i cut u up      | Sondizzel       | xXBoogieMaaN      |
-| North of 49               | G-SpOt          | ThE Bo          | Alpha_XFactor   | xFurien           |
-| Not Even Good             | isobeck         | Nitrodist       | iperfectshot    | .IcEmAn.          |
-| ODM (Oderint Dum Metuant) | nat3THEgr3at    | KinLeR          | danthaman913    | Selkies           |
-| One Step Ahead            | Arsony          | WaaKe           | Frenzy_         | Hunter Jjx        |
-| OPC                       | _Neemah         | N3rdzilla       | OPC40oz         | mowgli305         |
-| PainX                     | WoNkA           | Censored.       | FactoR          | Butt3rZ           |
-| Party like a Halo Chick   | CyReN           | Puss            | Souldishwasher  | Bain              |
-| Perfect Balance           | Mack            | Da BeAsT        | BesT MaN        | Smoltz            |
-| Perfect Flaw              | SiCkTeNTiAl     | II CaMBrY II    | HdT Sasuke      | IINoWayOutII      |
-| Perfect Storm             | Ramby           | Xtrem1st        | KGB Soviet      | AYBFonzi          |
-| PilgrimNation Immigration | Dawg Tooth      | Xx Guardian     | ILL Mitch       | Bowserrr          |
-| Pistol Grip Pump          | ii WeNis ii     | Jaskub          | IxI Joo IxI     | U g Z             |
-| Plan B                    | vilescarface    | iGotUrBeatdown  | hilgyone        | phattony2552      |
-| Points of Authority       | sSsLiNk         | MRMTDSN         | Nab             | Cheecher          |
-| Pokemon Breeders          | Asian One       | maygit          | OnIyMiKe        | HoLy The GREAT    |
-| Power Weapons             | Pirateee        | Rebelman28      | Beerbelly       | fr1l0ck           |
-| R3D BaR CoNN3cti0n        | Jeeenyus        | R4p             | DSx Ozzy        | S7ubs             |
-| Radical                   | Irae            | Shostak         | Cassadaga       | R1ZZ              |
-| Random Heros              | JustBeDone      | OMG itZ GaMBiT  | OMG itZ Ninjax  | RX7Ninj4          |
-| Rare Candy                | RyoNeSs         | NeroTag         | iF34r           | .ElectriK         |
-| Real Men of Genius        | Allusive_       | PartyNak3d      | vRequiem        | oSlipStr3amo      |
-| Reanimated                | lVeLoCiTyl      | lincoln3        | lx_Magic_xl     | _mistik_          |
-| redeemer                  | Sediti0n        | Vile-           | xSolaRx         | Blazedereday      |
-| Refined                   | Se7en bladez    | GiantMayne      | x_M3NTALITY_x   | HoLLoWPoinTzZz    |
-| Revised                   | Optimal1        | xDeathsmokex    | Dylan Swanda    | After Fir3        |
-| Robo-Squirrel inc.        | Wuce            | The-M-Factor    | de-an-tay       | Teltak            |
-| RoC                       | Joe             | Darkfury        | PisToL          | Shook On3         |
-| Section 8                 | Spyder v2       | Pr0 TriX        | sR MeFfY        | AbYsSsSsSsSsSs    |
-| Set the Stage             | RooDicUloUs     | LiL TalenT      | x Velli         | .chan             |
-| Shenanigans               | KillOut         | Sk8punk49       | heikki          | .KriZeN           |
-| Sign My Face              | Butch3rB        | LeE             | JunKslayer      | iMorbid           |
-| Sneaky Beavers            | PEP HITL3R      | Brasky21        | Mavka           | workinthecorner   |
-| Something Else            | SkipToMyLou     | Nesorac         | Moozmo          | Mookie            |
-| Sparkle Motion            | Roanoke         | Gammage I       | iDeMiiZe        | Dark Gammage      |
-| SSynergYY                 | SynyzteR        | ThE jiLted gEne | Retribution.    | jeffreydaumer     |
-| Stays Grimey              | Fugo            | Chig            | MeGa_NoVa       | -Milk-            |
-| Str8 Rippin               | Tsquared        | Neighbor        | elamitewarrior  | Legit             |
-| Sweet Revenge             | yoshi 0000999   | ryannator5791   | Bobbler         | xxkrzyvvosxx      |
-| Swirly Men                | Shad0wKing      | Kj I Qu1zZy I   | xXJJS_MidgetXx  | Qu1zZyNom1c4L     |
-| Switch Back               | .ZorrA          | X0XJROCX0X      | llHaYWiRell     | CnE Kyle          |
-| Swordball Pros            | isuave          | BR3tt Owns      | Delta_Raptor    | lRewind           |
-| SynKronicity              | Fox_v3          | TeamCharlie     | Team_F0XTR0T    | BLACK_N0S         |
-| Take This L               | Tha Epidemic    | Teacha          | Tha_illest      | AR2               |
-| TGI                       | nano2311        | Halla boi       | _DwAs           | Slayer Krs        |
-| The Breakfast Club        | thewaffleninja  | I GaRbAg3 MaN I | .NayR           | xDeW              |
-| The Godz Reborn           | ph3nom dizzlee  | GhostAtackIsWaK | SkiLLzPiMps     | FeaR-BrYan        |
-| The Oh My Gawd Sqaud      | Ixbabyjesusxi   | Blackout thegod | x NiGhTmAr3 x   | _PANDA_           |
-| Time 2 Prove              | Donut           | OVERSHIELD      | 8Ball           | BigTimer          |
-| TiMe4 PLaNB               | xTRUSAVIOR      | Feirion         | PerFecto        | MEEEEERSK         |
-| Transformers              | NoToRioUs_RaY   | xKsTrEsSs       | Ryan Payne      | Sell_aKa_Palmy    |
-| TroubleShooting           | TruPhenom       | l_HoMiCiD3_l    | BrotherJustice  | xAtrophy          |
-| True Influence            | thebizrs        | EcIipse         | Hello im nice   | Heinz Almighty    |
-| True Mentality            | Thats Ludacris  | getjuiced       | BL4CK           | Ass4ult           |
-| Type-Z                    | I Hulk I        | Infinity Z      | Str8pimp        | Ownat1on          |
-| Underestimate             | Bo0Berry        | xBroWniNgx      | PaCistheMaYNE   | Coach_EsTeP       |
-| Unicandycorn              | iKoRrUpT        | Beastish        | Linty           | -SunShii-         |
-| Unknown BRs               | leongray        | Chipp           | KnightofDestiny | CrusherDevourer   |
-| Unleashed                 | IIRoMaN         | ll FreEZiE ll   | The InsTincT    | JesseThRiZLE      |
-| Velocity                  | NinthMorpheus   | Swordey         | unknowngod99    | sHyRe             |
-| Versus                    | BoO             | Hali            | I FrOsty I      | PoWeeZy           |
-| ViciouS                   | Kill3n          | Awok3n          | Ix xeRo xI      | iGotUrPisto1a     |
-| Vision Of Victory         | itz-crossfire66 | LUCK Target     | FroZenGamer91   | big_boy_7         |
-| WarTime                   | NolmaC          | Jam.kitty       | Jinz0           | DoubLe_A_B        |
-| WaY 2 SaucY               | iMrORaNgE       | ll ConfuciuS ll | o_BOMB_o        | HyPHizZle         |
-| We Heart The Ogres!       | Nai             | Eclipse         | BusTaCaP_       | LazySlothzorz     |
-| We Would’ve Won On XBL    | MeTaPhYsiKs     | xGeNoCiDe       | Mezmeriz3       | Bentley614        |
-| We’re still thinking      | MyRock          | Mr_Tidus        | AyRoN           | INotlawI          |
-| Witness to SiCkNeSS       | wesley snipes   | BananaCognac31  | ll Hurrican3 ll | o_Contract_o      |
-| Wreckin Train             | RightfulSnake   | tomservo15      | BiGgiE_Blythe   | FliPNoTiC         |
-| WSOA                      | xAcekill        | killerjug       | Dubisssss       | xMdkilla          |
-| X Worthy                  | Lloyd_Newman    | Case of Kaping  | {Nolan}         | vTweak            |
-| XiT WoundZ                | Bonfire         | Itwasluck       | OmegA           | KillerN           |
-| xRaHx                     | iLL DEFiNED     | AnCiEn7         | epicinfiltrator | xNighthawk        |
-| X-Rated                   | TONeal          | homicid3_chris  | 2KOLD_2HOLD     | ChAoTiC_4SHOT     |
-| XSIVE                     | l TGR l         | IBishopI        | IChaserI        | Man_on_Fire_      |
+| Team Name               | Player 1        | Player 2        | Player 3        | Player 4        |
+|-------------------------|-----------------|-----------------|-----------------|-----------------|
+| .50 Caliber Cancer      | The J3WS        | NOEF            | ShadowX101      | obeseT          |
+| 4 Glory                 | rascaLaTOR      | rbk brown       | D E K L I N E   | GsOaOrSaE       |
+| 4 strangers             | dirty plum      | Beatdown        | Aktion          | G h o s t 853   |
+| 5k                      | FearItSelf      | Lunchbox        | xHokuM          | Roy             |
+| About The Money         | MRMTDSN         | Ca1cify         | TrMako          | TheLefty        |
+| Alphabet Soup           | Hissing         | AgeofBlades     | l PhaLanX l     | Da Acklete      |
+| Alphapower              | MCG_Wolf        | xGoatcheeze     | i cut u up      | iNeX WiCkEd     |
+| Always Victorious       | lx PrawN xl     | pande           | ShaGGyyyy       | I BonDzie I     |
+| Amateur Hour            | iStars          | TJM             | GeNetiX         | Ars3nault       |
+| Antimatter              | Eli             | 8Ball           | BesT MaN        | Spainiard       |
+| Arcane Strategy         | II Nimble II    | g2tharant       | I Venom I       | DiSAST3R        |
+| Army of Four            | Cpt Korea       | skill spark     | NiNjA LucK      | TH3 Trigga man  |
+| AtR                     | TragiK          | Rami Rez        | FueL            | IMERCYI         |
+| BacK 2 BasicS           | NtG NeXuS       | I BullzeyE I    | Saryon          | Achilles        |
+| Back2Front              | tsaebami        | Ratsnomami      | Tobami          | Reyalsami       |
+| BackPackin’             | Tm0n3y          | Batman pwns     | U sepaR redruM  | ixq1k           |
+| Best Yet                | Toxic Euphoria  | BlakOut         | Conker          | nutra           |
+| bORN Ready              | xX VisioNz      | oO Afrothunder  | Jangles         | CowTippiN BoB   |
+| Brand New               | SyLeNc3         | IK4I CaRNaGe    | ThRoWd          | l BaTMaYnE l    |
+| Breaking The Habit      | hazardo         | KevinRo         | pega-chris      | Zer0oo          |
+| Brigade                 | Noble           | Pwn             | Jetplane        | Silentpete      |
+| Calissippi              | RABAD3UX        | GOBLIN2         | MoB Buff        | Infidel         |
+| Cant Compare            | ANZIO           | lobster21       | LAK3RS          | I Striker I     |
+| Carbon                  | ShocKWav3       | Gandhi          | Karma           | gh057ayame      |
+| Care Bears Share        | Andy TFx        | Paradise        | killasnipe69    | BtK BioHaZarD   |
+| Casualty                | BUNNY PAJAMAS   | Fatal           | Radiation       | SumoFreak11     |
+| Charlotte’s OwN         | The_Butcher     | ONS1AUGH7       | Spartan pwnz    | shotzee         |
+| Check Please            | JuSt-LaY-DoWn   | JiGGYFLY        | The Genius      | JeRK            |
+| Check Your Pulse        | S3xSpert        | Bradddddddddddd | EpidemiC        | Solshy          |
+| Cheezy Poofs            | BLlNDSPOT       | iDeke           | Haz3y           | iYh_KnoX        |
+| ChooSeYourWeapoN        | I3uRsT          | Hack3r          | Xero Fayt       | ObsessedD3ath   |
+| Concept                 | GroundChuck     | IV 3 Vv T       | DrunkTiger      | II XpLiCiT      |
+| Cool and the Gang       | Cool Buh        | xxscarfcexx     | daghostnddrknes | StuntZ          |
+| CPH                     | TheLegolas      | maygit          | Goat            | TheHansBecker   |
+| Cutting Edge            | Chief Eric      | SicKSaNe        | IHadeS          | demizer         |
+| Dark Relic              | Dark99          | PBJB            | I uNgEr I       | II ChipmunK II  |
+| Decimation Proclamation | Beserk          | DeluD3d         | Hakaru          | Gravyyyyy       |
+| DimensionX              | TMAN110         | DotKinto        | OpTiMuM         | l D3FAULT l     |
+| Do You Want Karate?     | BXRawr          | M477 Pwnz       | TheFourth       | E1 Salvador     |
+| Don’t Blink             | Dean            | Disco Stu iMH   | _ErmAc          | Malfunction     |
+| Dookie Blasters         | Adrenalin3      | Warkid X        | SMELLY          | STANKROD        |
+| Eats Mangos             | Wildwhiskers    | ExiLe           | sHyRe           | Studd           |
+| En Credible             | Fugo            | Mr Phonix       | LiL TalenT      | NoVaNaToR       |
+| EVO                     | Gizmo           | Sneak           | Furby           | iLondon         |
+| Evolution               | AofD_Ashby100   | xXmallexXx      | ll CronuS ll    | dAr7H bAd3r     |
+| Faction 864             | Lost 704        | Chewbaka        | Gettsum         | k0ns            |
+| Fatal Precision         | {obit-wan}      | Evilhomer67     | goldenrhino     | tha don rizzay  |
+| FBI Are You Ready       | DrumMeR         | xSn4kE          | xSleepy         | ApoK            |
+| FBI ICON                | Tupac           | Slim            | Pyrocy          | Shook On3       |
+| FBI THE 4 BROTHERz      | PrOpHeT         | NoScOpE         | MooGiEE         | THE FUJIz       |
+| FBI The Agency          | Victory X       | Mackeo          | elamite warrior | Halogod         |
+| Fear                    | LuiGi MayNe     | Diet bob        | GodSent Wins oh | IXI_Carnage     |
+| Feel The Pressure       | KaiNe           | BananaCognac31  | JoeThePsYcHo    | Al2IES 1        |
+| Fifty/Fifty             | newatlanta19006 | megaloman1a     | zobdoz          | S33K has a BR   |
+| Final Boss              | Walshy          | OGRE1           | OGRE2           | StrongSide      |
+| Fine TeariN             | SticKTaLiTy     | FraGTaLiTy      | II BLEED II     | unknowngod99    |
+| Flawless Victory        | Nano551         | ProbleM         | Awok3n          | BroLyDaBeasT    |
+| From Concentrate        | TessleR         | TeH BawNeY      | tubby           | II JROOT II     |
+| FSK                     | Hi Value        | .KillZoNe.      | Dasteez         | lx Ace xl       |
+| Full Collapse           | venema          | xRevolt         | evoniK          | bscott52789     |
+| GDT Reborn              | Lies            | ChoBo           | SpaawN          | flipvindicator  |
+| Get The Pwn             | xToXsiK         | kyo             | KillaZ          | D3monHuntei2    |
+| Girls in Action         | Ms Baretta      | Bonzai Kitten   | H2 Princess     | LiLY            |
+| Grey Bush               | iCharmi         | JiNX            | Iscream         | Charmed One     |
+| Gridlock                | ExtremeArsonal  | Blaze2theon3    | DuFiss          | OverShot        |
+| Guys and Doll           | Lelu            | Hosty           | Blackout thegod | Puss            |
+| H1 Pros                 | Levi            | SoLo PiMp       | SeviBaby        | biggun          |
+| H2O                     | xSaGe           | The_Decoy       | My_NaMe_is_Hiro | Fate XIII       |
+| Hands Dealt             | Cadillac        | DramaKilla      | HSStunt101      | Remorse         |
+| Hated On Mostly         | conman234       | FatalMatt       | xk00chx         | TwYLighT is XL  |
+| Highly Skilled          | KSP SRT         | MgS1SnAkE       | l TGR l         | MgS2SnAkE       |
+| HKG                     | KnottyGnome     | Golgo           | GravityKiller   | HAHAAHAHAAHAAHA |
+| Hour Before Deadline    | xX 1 By 1       | MoOoNsTeR       | l Mr AmAzInG l  | hunner500       |
+| How’s It Taste          | Nai             | S2L Naes        | TranslatioN     | TheRealKarcous  |
+| Hybrid                  | riggen49        | SWA7            | ShadyZ On FiRe  | ImmortalProphet |
+| Impact                  | Godziller       | GTSX Xudevious  | GTSX Typhon     | NoobWithNoName  |
+| Inception               | xXSkIlLsKiLlsXx | ViSuAls Effect  | Shako           | ReAcTiOn        |
+| indecent Xposure        | OGRE3           | MioFF           | Hosh            | Spye            |
+| Infamous                | SHOCKA          | HeLLuVa         | (Its DizZy)     | lK4l Massacre   |
+| INSIGHT                 | vendictivex     | themuffinman    | kgporker        | Hyv3nt          |
+| Intravenous             | cochoz          | II FlipNaD3 II  | II Aggin II     | Peshy           |
+| Iseeredpeople           | babygoose       | cryf0ld         | ExInceNDiA      | .Tr1cK          |
+| iSpY                    | iRatify         | iDreaM          | iPoShY          | iF34r           |
+| JoKe a ChoKe            | Cloud           | MaNiiaC         | AnThraX         | DeAtH           |
+| Kick Rocks              | GaaRa176        | J33BUZ          | Itachi OwNs     | Am Papi         |
+| Know Your Role          | gporter         | Phix            | HaMsTeR         | HeAt            |
+| Krysis                  | Rebelman28      | Pirate Lad      | Slippy_Joe      | l DEATHCAB l    |
+| LAN Pirates             | foXy            | Orietta         | Ms.Hotshy       | FtG_mightBwhite |
+| leet skeet              | willah          | ColdHrTed       | TrillStar       | AdviCe          |
+| LeGendZ                 | Defy            | Mack            | Vash            | Joe             |
+| Let it Happen           | The 110lb Giant | nooobastank     | T1CK 1          | Beerbelly       |
+| License to Kill         | Chr0no          | singularapathy  | Sediti0n        | .ABibleSlesman  |
+| LoC Dawg                | EsssP           | Knowledge       | [GunRanger]     | HaNz            |
+| LucK OuR BoN            | AbN xx1BeTo1    | AbN Pulse       | AbN Mirag3      | MurchPwns       |
+| Make it Rain            | Detach          | Saiyan          | Neighbor        | BoO             |
+| Marker 4                | RephoriK        | MudVayne        | Be LiKe MyTh    | Intangibles     |
+| McNovices               | AMBI3NC3        | S7ubs           | HaLLmaYnE       | CyReN           |
+| Mind Endurance          | iLL Kmander     | TRIGG9          | XIX IcEmAn XIX  | xY BRUTAL       |
+| Mirakle Whipppp         | l SwiftKil l    | _DwAs           | lI PANDA lI     | [ PhAzE ]       |
+| MoB Brutal Suppression  | AngelofRegret   | Gavin Iz Wack   | monkeypaw       | Motobgw         |
+| MoB Finessed            | Alpha_XFactor   | I Bushido I     | gmpr3d          | Stonewallwall   |
+| MoB GC                  | Ix xeRo xI      | The DiESeL      | ShOcKa PwN      | Chubbs GC       |
+| MoB Heavy Hitters       | SicKo           | Spazzoid        | WildAsAbuck     | xFFAx VirTu0so  |
+| MoB PitBulls            | I ItaLiAnO I    | I Soldier I     | l Bass l        | LAMBIE          |
+| MoB Powerhouse Ukn      | ChuckWolfman    | Trip_N          | D34M0N          | DoIVIiNiCaN     |
+| MoB So SicK             | MeLLoZ          | AcidiaN         | GaMe            | HaLi            |
+| MoB UnKnoWnS            | Violet ish      | bastardlydanny  | Kill3n          | Stew            |
+| Most Shots Fired        | L u c k i e     | XBL AvasT       | Ix ZodiaK xI    | Eth3r           |
+| MoTiVaTeD               | EnErGii         | DeJaVu lll      | Ixbabyjesusxi   | black virusX    |
+| Naturally NeAt          | MehGa           | Stunner         | QuAKe           | Mr BuRnS        |
+| NC Spartans             | DR3DKNOK        | Player_6        | Jedster         | Lowlight        |
+| New Era                 | LiL coLeK       | InSaiyan        | FrulVlpy        | ThuggishKlLLA   |
+| Nice Like Rice          | LegendJRG       | Havok           | Butt3rZ         | Ray             |
+| NiNJa SkiLLs            | FrozeInShocK    | D3M0N D         | LanceR INAl     | B RizZzLe       |
+| No ReMorse              | PhYSicKz        | iDRIFT          | Beast Mode      | Greek King      |
+| NOT EVEN TRYING         | GuN SmOk3d      | wizzz3ak        | CluTch Tim3     | skullkid        |
+| NtG                     | Xena            | GooseIsGod      | patchakaskillz  | Monkey          |
+| Odium                   | realityripple   | silver stich 7  | dgroviovs       | midas 8         |
+| Off Constantly          | 5th_Element     | Trojan          | Dark3n          | BLUEFIR3        |
+| OREGONized Crime        | noosee          | Keko            | thatsplayer69   | TheBlueBear     |
+| PainX                   | WoNkA           | FactoR          | Censored.       | DyNoMiKe        |
+| Party Bomb              | B ReeZy         | Vindicator      | Legolas71088    | squ3rt          |
+| Perfect Balance         | I Apex I        | Samurai650      | Da BeAsT        | KGB Soviet      |
+| PMS Pro                 | Smiley          | Peachie         | Telina          | Tart            |
+| Quest                   | TheGreatAK      | Jebus Pwns      | Hvtitan85       | [TRD]BiZarrE    |
+| R.O.R                   | Who iz Oblisk   | CoKoNuT         | 0 D i N         | T E M P U S     |
+| r3                      | SpEcTaCuLaRx    | SS4 Vegeto      | LethalFattness  | iAxSaiNt 1      |
+| Rainbow Riders          | HyStEiRiA       | Perplexity      | I CallMeGod I   | Rudy            |
+| RaRe FoRm               | NaStYcK         | Monix           | Peru            | ShyGuy          |
+| Rated R for Randoms     | Biggindude      | Anaponda        | IXxxKINGxxXI    | RAF1k1          |
+| Rawr Wars               | ChImP v2        | DonTrump        | BtK_MiZeRy      | )DuCKy(         |
+| Reaction                | PanthR          | DylaNis1337     | talbert         | hadoooooooooKen |
+| Redemption              | AYBFonzi        | Cpt Anarchy     | Ramby           | KillerN         |
+| Reload After 4          | st0n3r_2        | ballew          | INeAtl          | Puma            |
+| RoC                     | D Fury          | Gexny           | JuS             | Dysphoria       |
+| Royal Rumble            | smaLLLLs        | I Reb0rn I      | Ezkimo          | eye wattace eye |
+| Running with scissors   | Alex            | daKor           | I ReD Ra1N I    | eNabLe          |
+| SaFeTz OFF              | II ViPeR II     | I KaPPasLaPPa I | Jolly Josh      | Wes Fx          |
+| SCG                     | l SquANtO l     | ikEvY           | UndErRaTEd      | aMaZinG         |
+| Section X               | KoTaMayNe       | silen7btviolen7 | CHAPTERX        | WiiZull         |
+| Send You Packing        | xFurien         | KraKaLaKa       | Arrovv          | iGotUrPisto1a   |
+| SeT YoUr BoUnDrIeS      | xX DarkshoT     | Dustyyy         | godsniper       | il TerroR li    |
+| Shelltown Spartans      | sonicshot45     | HelluvaSpoon    | a boostin dsm   | SilverCrow7     |
+| Short Yellow Bus        | Oragnitized     | Wick3d is Sick  | j0r_dizzle      | LAdoubleP       |
+| Show em the Vayne       | O4th            | TheoOoOoOoOoOoO | i3go            | xkoboltx        |
+| Sick Precision          | MikeMan         | Pre v2          | XI NuBs IX      | Curt            |
+| Simple Complex          | Il UNKNOWN lI   | Elon1           | Fielder Mode    | ll XeoN ll      |
+| So SimpLe               | xBacKFirE       | yourgirlsman    | BoneZZZZZZZZZZZ | RVG XiphoZ      |
+| SOFA                    | The Opoponax    | BigBosss        | Gowei is Awesom | V3rmiis         |
+| Solution 410            | verbal          | INGEN919        | INSUPERABLE     | crefflowdollar  |
+| Sparkle Motion          | Dark Gammage    | Roanoke         | Gammage I       | Whotippedmycow  |
+| Spartanknights          | MCCE            | RevampedKnight  | Squall31069     | Master TJ       |
+| Split Second            | RodeoClown      | Medium          | AshY            | Aries           |
+| Stacked Like Pancakes   | iKriteZ         | xMysTeRiO       | UNREALLLL       | SoN oF a TwiTcH |
+| Steal the Show          | Pyschodork      | ZzZenta         | InSanitY x      | Ast0nish        |
+| Str8 Rippin             | Tsquared        | Foulacy         | Legit           | Naded           |
+| Suicidal Army           | Buu             | The Great GeMA  | X is GODLIKE    | SiCTheGreaT     |
+| SuperEXistence          | xtroid          | Fiziks          | k4r4u           | I TurBo I       |
+| Team Sur3sh0t           | PMSHONEY        | PMS Sur3sh0t    | x Mi4 x TyranT  | oDOOGIEo        |
+| TeK                     | snyper          | captain mike    | [-Hybrid-]      | XxEggyxX        |
+| That Was Easy           | Heirarch        | Swordey         | xHoward         | IGotHtByAShovel |
+| The Business            | Scrub           | Mimic           | DaRk VeGeTTo    | PisToL          |
+| The Influence           | Shoota II       | TalenT          | Loondog         | I FrOsty I      |
+| The IV BrotherS         | FaMouS II       | WHO iS KinG     | Sour Milk       | po0psmmith      |
+| The Jansporters         | RaVaGe          | TuSick          | WhOzoRz         | o-SnEAk-o       |
+| The Mighty Ducks        | kevman112       | Hunt            | JokaWild        | Brillow Pad     |
+| The System              | invisiblejjx    | TheOwnly        | IamTheArkanum   | KAUSi0N         |
+| Time 2 Prove            | BigTimer        | TimeliestBrute  | Donut           | OVERSHIELD      |
+| tomfoolery              | c-low18         | xDuFFMaN        | Swyfty          | II Liquid II    |
+| Total Control           | Wig Splitt3r    | XxExile         | XAMBL3R         | SyNoX           |
+| TRIGONOMETRY            | luda b          | ZoNiC24         | o DeViOuZ o     | HILGY_2         |
+| True Influence          | Pepperz         | EcIipse         | Akef            | Empir3Fa1nAng3l |
+| Twice Born              | Kyle312         | BloodlessJ0e    | Y0grannyf00     | Ho1y Ghost      |
+| Twist of Fate           | Beast 2         | Beast 1         | Kensterr        | I Teets I       |
+| Type-Z                  | I Hulk I        | Infinity Z      | Ownat1on        | Str8pimp        |
+| UniCitY                 | Emoio           | l Fateful l     | NeKsT           | KyFoo XI        |
+| US Eh                   | Triana          | ThE Bo          | Skills          | Rio             |
+| Vanity                  | Triple007       | FoSsiK          | Nitrouss        | Smoltz          |
+| Victorious Secret       | ToPh3rs         | Procto Pirate   | SmOoTh iZ SicK  | xWatch          |
+| Vortex                  | xX Blanka       | Lethal          | RavenDoesMagic  | Magnummmmmm     |
+| vVv Valor               | Rocky           | LeGeNdPimPs     | LastMan         | Toxin           |
+| We LARP                 | n00bator        | PuN             | r-Ryo           | NoOneLikesKittY |
+| Wheels o Fury           | Nemesis is back | Morgoth         | Mud8utt         | H2oBADMUTHA     |
+| Wort Wort Wort          | QuAnTuM         | WaldoX          | IceVayne        | Nataku          |
+| Wu Tang Financial       | SuReShOt        | FirelsHot       | SilverSon       | BuLLeTz         |
+| XiT WoundZ              | Bonfire         | Itwasluck       | hslightking     | OmegA           |
+| You Had Me At Halo      | Number1         | bL1sS           | icbti Napolean  | SwishA          |
+| You Will Never Get This | Classic         | Malice          | y0da            | WoRRaLL         |
+| Young                   | Herby           | Zakk Atak       | RiPJaK          | Crowe           |
